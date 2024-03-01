@@ -1,6 +1,6 @@
 [![MasterHead](https://codemithra.com/wp-content/uploads/2020/09/web-design-development-blog-2.jpg)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Rumana, Full Stack Developer</h1>
+<h1 align="center">Hi👋 I'm Rumana, Full Stack Developer</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <ul align="left">
   <li>🎨 Basically a designer but can do some coding </li>
