@@ -21,7 +21,4 @@
 
 <img width="105" alt="My Codewar Badge" src="https://github.com/rumana-aafrin/rumana-aafrin/assets/70215401/3b052b98-b81b-4432-b8dc-619e258f1f3b">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumana-aafrin&show_icons=true&locale=en&layout=compact" alt="rumana-aafrin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumana-aafrin&show_icons=true&locale=en" alt="rumana-aafrin" /></p>
 
